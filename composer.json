@@ -22,5 +22,5 @@
   "autoload": {
     "psr-4": {"Bex\\Monolog\\": "src/"},
     "files": ["src/bootstrap.php"]
-  },
+  }
 }
