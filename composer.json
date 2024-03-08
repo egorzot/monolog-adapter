@@ -17,7 +17,7 @@
   "require": {
     "php": ">=8.1",
     "monolog/monolog": "3",
-    "theorchard/monolog-cascade": "dev-master1"
+    "theorchard/monolog-cascade": "dev-master"
   },
   "autoload": {
     "psr-4": {"Bex\\Monolog\\": "src/"},
